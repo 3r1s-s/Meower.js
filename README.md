@@ -1,4 +1,4 @@
-![Meower js logo](https://github.com/meower-media-co/Meower.js/assets/68120127/ed518250-e877-4fce-9a84-b4a8d51f5628)
+![Meower js logo](https://github.com/3r1s-s/Meower.js/assets/68120127/ed518250-e877-4fce-9a84-b4a8d51f5628)
 
 A javascript library for Meower
 
